@@ -12,7 +12,7 @@ public class LambdaDemo {
 public static void main(String args[])
 {
 	A obj;
-	//obj = new A() { //Ananous class
+	//obj = new A() { 
 	//	public void show(){
 			//System.out.println("HEllo");
 		//}

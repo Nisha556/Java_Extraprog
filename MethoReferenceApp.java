@@ -27,7 +27,7 @@ public class MethoReferenceApp {
 public static void main(String args[])
 {
 //CalC.addSomething(10, 20);
-	//Calculator cRef = Calc:: addSomething; // staic method reference
+	//Calculator cRef = Calc:: addSomething; // static method reference
 	//cRef.add(11, 14);
 	//
 	//2. refernce to nosatic method
